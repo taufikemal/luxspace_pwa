@@ -16,24 +16,24 @@ function Header() {
               id="menu"
             >
               <li className="mx-3 py-6 md:py-0">
-                <a href="/" className="text-black md:text-white hover:underline"
-                  >Showcase</a
-                >
+                <a href="/" className="text-black md:text-white hover:underline">
+                Showcase
+                </a>
               </li>
               <li className="mx-3 py-6 md:py-0">
-                <a href="/" className="text-black md:text-white hover:underline"
-                  >Catalog</a
-                >
+                <a href="/" className="text-black md:text-white hover:underline">
+                  Catalog
+                </a>
               </li>
               <li className="mx-3 py-6 md:py-0">
-                <a href="/" className="text-black md:text-white hover:underline"
-                  >Delivery</a
-                >
+                <a href="/" className="text-black md:text-white hover:underline">
+                  Delivery
+                </a>
               </li>
               <li className="mx-3 py-6 md:py-0">
-                <a href="/" className="text-black md:text-white hover:underline"
-                  >Rewards</a
-                >
+                <a href="/" className="text-black md:text-white hover:underline">
+                Rewards
+                </a>
               </li>
             </ul>
           </div>
